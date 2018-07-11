@@ -32,6 +32,7 @@ The [goals of this tutorial](/#tutorial-exercises) are to:
 * [gRPC Adapter Walkthrough](https://github.com/istio/istio/wiki/gRPC-Adapter-Walkthrough)
 * [Mixer Using a Custom Adapter](https://github.com/istio/istio/wiki/Mixer-Using-a-Custom-Adapter)
 * [Protoc (Google Protocol Buffers) binaries](https://github.com/google/protobuf/releases/tag/v3.4.0)
+* [The Circonus Istio Mixer Adapter](https://www.circonus.com/2017/12/circonus-istio-mixer-adapter/)
 
 ### Histogram Resources
 * [How to Make a Histogram with Basic R](https://www.r-bloggers.com/how-to-make-a-histogram-with-basic-r/)
