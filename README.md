@@ -2,7 +2,7 @@
 
 ### Overview
 
-To get the most out of this tutorial, you should have access to an environment with the [Go programming language](https://golang.org/) installed, and the [R statistical computing language](https://www.r-project.org/about.html) installed. You should have Docker installed on your laptop, and install the [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/).
+To get the most out of this tutorial, you should have access to an environment with the [Go programming language](https://golang.org/) installed, and the [R statistical computing language](https://www.r-project.org/about.html) installed. You should have Docker installed on your laptop, and install the [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/). You should also clone the [Data Science for Effective Operations Jupyter Notebook](https://github.com:HeinrichHartmann/DS4OPS.git).
 
 You will want to have access to a Kubernetes environment also. Google Cloud Platform offers a free [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/) trial that you can use for this tutorial.
 
