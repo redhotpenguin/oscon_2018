@@ -2,7 +2,7 @@
 
 ### Overview
 
-To get the most out of this tutorial, you should have access to an environment with the [Go programming language](https://golang.org/) installed, and the [R statistical computing language](https://www.r-project.org/about.html) installed.
+To get the most out of this tutorial, you should have access to an environment with the [Go programming language](https://golang.org/) installed, and the [R statistical computing language](https://www.r-project.org/about.html) installed. You should have Docker installed on your laptop, and install the [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/).
 
 You will want to have access to a Kubernetes environment also. Google Cloud Platform offers a free [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/) trial that you can use for this tutorial.
 
@@ -12,8 +12,7 @@ The [goals of this tutorial](/#tutorial-exercises) are to:
 * Use the Istio Grafana dashboard
 * Create the example metrics adapter
 * Generate a statistical distribution of request latency data using R and Istio telemetry
-
-Because we have a lot of folks signed up for this tutorial, and likely a wide range of skill sets, I've included both `easy` and `hard` options for the exercises. You can be the judge of which is which.
+* Use the Jupyter notebook to analyze request latency data with histograms
 
 ### K8s Resources
 * [Docker for Mac with Kubernetes](https://blog.docker.com/2018/01/docker-mac-kubernetes/)
@@ -38,6 +37,8 @@ Because we have a lot of folks signed up for this tutorial, and likely a wide ra
 * [How to Make a Histogram with Basic R](https://www.r-bloggers.com/how-to-make-a-histogram-with-basic-r/)
 * [R Tutorial](http://www.r-tutor.com/)
 * [Log linear histogram Go library](https://github.com/circonus-labs/circonusllhist)
+* [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/)
+* [Data Science for Effective Operations](https://github.com/HeinrichHartmann/DS4OPS)
 
 
 ### Tutorial Exercises
@@ -48,5 +49,8 @@ Because we have a lot of folks signed up for this tutorial, and likely a wide ra
 
 [Exercise 3 - Create a metrics adapter](./exercises/3.md)
 
-[Exercise 4 - Generate a histogram from Istio latency data](./exercises/4.md)
+[Exercise 4 - Use R to plot a simple histogram of latency data](./exercises/4.md)
+
+[Exercise 5 - Use the Jupyter notebook to analyze latency data](./exercises/5.md)
+
 
