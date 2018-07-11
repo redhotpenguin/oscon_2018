@@ -38,7 +38,7 @@ The [goals of this tutorial](/#tutorial-exercises) are to:
 * [R Tutorial](http://www.r-tutor.com/)
 * [Log linear histogram Go library](https://github.com/circonus-labs/circonusllhist)
 * [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/)
-* [Data Science for Effective Operations](https://github.com/HeinrichHartmann/DS4OPS)
+* [Data Science for Effective Operations Jupyter Notebook](https://github.com/HeinrichHartmann/DS4OPS)
 
 
 ### Tutorial Exercises
