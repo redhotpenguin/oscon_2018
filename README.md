@@ -33,6 +33,9 @@ The [goals of this tutorial](/#tutorial-exercises) are to:
 * [Mixer Using a Custom Adapter](https://github.com/istio/istio/wiki/Mixer-Using-a-Custom-Adapter)
 * [Protoc (Google Protocol Buffers) binaries](https://github.com/google/protobuf/releases/tag/v3.4.0)
 * [The Circonus Istio Mixer Adapter](https://www.circonus.com/2017/12/circonus-istio-mixer-adapter/)
+* [Istio 0.8.0 release](https://github.com/istio/istio/releases/tag/0.8.0)
+* Verified stable Istio release - `HUB=gcr.io/istio-release TAG=release-1.0-20180710-09-15`
+
 
 ### Histogram Resources
 * [How to Make a Histogram with Basic R](https://www.r-bloggers.com/how-to-make-a-histogram-with-basic-r/)
