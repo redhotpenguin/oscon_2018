@@ -20,6 +20,7 @@ The [goals of this tutorial](/#tutorial-exercises) are to:
 * [Hello Minikube Tutorial (OS X)](https://kubernetes.io/docs/tutorials/hello-minikube/)
 * [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/)
 * [Google Cloud SDK](https://cloud.google.com/sdk/install)
+* [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 ### Istio Resources
 * [Project homepage](https://istio.io)
