@@ -17,6 +17,7 @@ The [goals of this tutorial](/#tutorial-exercises) are to:
 ### K8s Resources
 * [Docker for Mac with Kubernetes](https://blog.docker.com/2018/01/docker-mac-kubernetes/)
 * [Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/) 
+* [Hello Minikube Tutorial (OS X)](https://kubernetes.io/docs/tutorials/hello-minikube/)
 * [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/)
 * [Google Cloud SDK](https://cloud.google.com/sdk/install)
 
