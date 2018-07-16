@@ -13,6 +13,7 @@ The [goals of this tutorial](/#tutorial-exercises) are to:
 * Create the example metrics adapter
 * Generate a statistical distribution of request latency data using R and Istio telemetry
 * Use the Jupyter notebook to analyze request latency data with histograms
+    * The docker image to pull for this takes a while - please run [./docker.sh --run](./exercises/4.md) before the tutorial
 
 ### K8s Resources
 * [Docker for Mac with Kubernetes](https://blog.docker.com/2018/01/docker-mac-kubernetes/)
